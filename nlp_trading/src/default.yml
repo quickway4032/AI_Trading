@@ -1,0 +1,6 @@
+hyperparams:
+  embed_size: 1024
+  lstm_size: 512
+  output_size: 5
+  lstm_layers: 2
+  dropout: 0.2

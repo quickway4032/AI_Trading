@@ -1,0 +1,15 @@
+#!/bin/env python
+# -*- coding: utf-8 -*-
+"""
+Project runner for GIC Early redemption rate
+
+
+
+@author: zwan
+"""
+
+import sys
+import run_proj
+
+if __name__ == '__main__':
+    sys.exit(run_proj.parse())
